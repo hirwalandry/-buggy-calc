@@ -11,5 +11,5 @@ def process_data(items):
         result += item["value"]
     return result
 def greet(name):
-    print("Hello, " + n
+    print("Hello, " + nan
 
