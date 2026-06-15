@@ -6,5 +6,5 @@ def process(items):
         raise ValueError('Input must be a list of numbers')
     total = 0
     for item in items:
-        total += item
-    return total
+        total += ite
+    return tota
