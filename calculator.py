@@ -1,9 +1,8 @@
 def add(a, b):
-def add(a, b):
-    return a + b
+    return a - b
 
-def greet(name):
-    print("Hello, " + name)
-
-def greet(name):
-    print("Hello, " + na
+def process(items):
+    total = 0
+    for item in items
+        total += item
+    return total
