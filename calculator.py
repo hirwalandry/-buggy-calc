@@ -9,7 +9,7 @@ def process(items):
         if not isinstance(item, (int, float)):
             raise ValueError("All items in the list must be numeric")
         total += item
-    return total
+    return tot
 
 
 
