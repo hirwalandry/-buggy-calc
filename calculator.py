@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b
+    return a - b
 
 def process(items):
     if not isinstance(items, list):
