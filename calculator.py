@@ -1,5 +1,5 @@
 def add(a, b):
-    return a - b
+    return a + b
 
 def process(items):
     if not isinstance(items, list):
@@ -10,7 +10,3 @@ def process(items):
             raise ValueError("All items in the list must be numeric")
         total += item
     return total
-
-
-
-
